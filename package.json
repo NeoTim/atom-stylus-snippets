@@ -1,0 +1,18 @@
+{
+  "name": "stylus-snippets",
+  "main": "./lib/main",
+  "version": "1.0.0",
+  "description": "Stylus Snippets for Atom",
+  "keywords": [
+    "snippets",
+    "css",
+    "styus"
+  ],
+  "activationCommands": {},
+  "repository": "https://github.com/forsigner/atom-stylus-snippets",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
